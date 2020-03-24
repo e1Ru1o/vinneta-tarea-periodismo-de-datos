@@ -1,4 +1,4 @@
-## First Project Related To "Periodismo de Datos"
+## First Project Related To "Data Journalism"
 
 A simple visualization about the queantity of users that has a Telegram 
 account on University of Havana.
